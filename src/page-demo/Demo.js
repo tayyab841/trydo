@@ -572,7 +572,7 @@ class Demo extends Component {
                                         </div>
                                         <p className="title">Welcome to TryDO React Creative Agency, React Portfolio and Corporate Multi Purpose Template Built With React JS. NO jQuery!</p>
                                         <div className="purshase-btn">
-                                            <a href="https://themeforest.net/checkout/from_item/25457315?license=regular" target="_blank" className="rn-button-style--2 btn-solid">BUY Now</a>
+                                            <a href="https://themeforest.net/checkout/from_item/25457315?license=regular" target="_blank" rel="noopener noreferrer" className="rn-button-style--2 btn-solid">BUY Now</a>
                                             <a href="#demo" className="rn-button-style--2 btn-border rn-btn-dark border-opacity-half">View Demos</a>
                                         </div>
                                     </div>
@@ -1000,7 +1000,7 @@ class Demo extends Component {
                                             <div className="content">
                                                 <h3 className="title">Online Documentation</h3>
                                                 <p>Well organized and up to date</p>
-                                                <a target="_blank" href="#" className="rbt-button rn-button-style--2 rn-btn-small-2 btn-solid-border"><span className="button-text">Online Documentation</span></a>
+                                                <a target="_blank" rel="noopener noreferrer" href="#" className="rbt-button rn-button-style--2 rn-btn-small-2 btn-solid-border"><span className="button-text">Online Documentation</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1013,7 +1013,7 @@ class Demo extends Component {
                                             <div className="content">
                                                 <h3 className="title">Dedicated Support</h3>
                                                 <p>Need support ? Submit a ticket. We will be happy to assist you.</p>
-                                                <a target="_blank" href="https://support.rainbowit.net/support/login" className="rbt-button rn-button-style--2 rn-btn-small-2 btn-solid-border"><span className="button-text">Get Support</span></a>
+                                                <a target="_blank" rel="noopener noreferrer" href="https://support.rainbowit.net/support/login" className="rbt-button rn-button-style--2 rn-btn-small-2 btn-solid-border"><span className="button-text">Get Support</span></a>
                                                 <ul className="liststyle">
                                                     <li><span>Support Time:</span> Monday – Friday</li>
                                                     <li><span>Response Time:</span> Maximum 24 hours</li>
@@ -1331,7 +1331,7 @@ class Demo extends Component {
                                     <div className="inner text-center">
                                         <span>Purchase The TryDo and Make Your Site super faster and easy.</span>
                                         <h2>Let's go to Purchase</h2>
-                                        <a className="rn-button-style--2" target="_blank" href="https://themeforest.net/checkout/from_item/25457315?license=regular"><span>Purchase Now</span></a>
+                                        <a className="rn-button-style--2" target="_blank" rel="noopener noreferrer" href="https://themeforest.net/checkout/from_item/25457315?license=regular"><span>Purchase Now</span></a>
                                     </div>
                                 </div>
                             </div>
